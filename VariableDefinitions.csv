@@ -1,0 +1,11 @@
+VARIABLENAME,VARIABLE DESCRIPTION
+ID,Unique ID for each row
+dtm ,Digital Terrain Model with spatial resolution of 5m/pix
+river_network,The river network in the area of interest
+road_network,The road network in the area of interest
+geological_faults,Linear geological features
+land_use_land_cover,LULC divided into 12 classes (see attribute table)
+average_precipitation_2020,Interpolated yearly averaged hour precipitation for the year of 2020 [mm]
+90_perc_precipitation_2020,90th percentile of the hour precipitation for the year of 2020 [mm]
+Other,Feel free to use other relevant factors
+Target,The probability of landslide occurance

@@ -52,7 +52,7 @@ To run the code, follow these steps in the correct order.
 First run the features_extraction_1.ipynb file, it can take 5 minutes
 
 Then run the features_extraction_2.ipynb file, it can take 5 minute
-s
+
 Then run the features_extraction_3.ipynb file, it can take 10 minutes
 
 Then run the features_extraction_4.ipynb file, it can take 5 minutes

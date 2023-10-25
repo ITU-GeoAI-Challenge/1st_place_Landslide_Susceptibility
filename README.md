@@ -23,13 +23,21 @@ After running the codes successfully, if you want to check the maps too, you can
 
 ### FILES IN THE FOLDER
 features_extraction_1.ipynb
+
 features_extraction_2.ipynb
+
 features_extraction_3.ipynb
+
 features_extraction_4.ipynb
+
 train.ipynb
+
 test.ipynb
+
 modelling.ipynb
+
 datasets folder(data from competition)
+
 [then all other maps created by running the code]
 
 
@@ -40,12 +48,19 @@ this is the only environment i could test the model before the deadline for subm
 Ensure, you install all the packages, I chose jupyter notebook as the environment because it has some prebuild or pre-installed packages with it.
 
 To run the code, follow these steps in the correct order.
+
 First run the features_extraction_1.ipynb file, it can take 5 minutes
-Then run the features_extraction_2.ipynb file, it can take 5 minutes
+
+Then run the features_extraction_2.ipynb file, it can take 5 minute
+s
 Then run the features_extraction_3.ipynb file, it can take 10 minutes
+
 Then run the features_extraction_4.ipynb file, it can take 5 minutes
+
 Then run the train.ipynb file, it can take 2 hours
+
 Then run the train.ipynb file, it can take 5 hours
+
 Then run the modelling.ipynb file, it can take 5 minutes
 
 

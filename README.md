@@ -36,7 +36,7 @@ test.ipynb
 
 modelling.ipynb
 
-datasets folder(data from competition)
+datasets folder(data from competition) - It is important that you download this data from zindi, I can't upload it here because github won't allow me to upload such a heavy dataset
 
 [then all other maps created by running the code]
 
